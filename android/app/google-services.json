@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1082641421892",
+    "project_id": "crypto-e3e3c",
+    "storage_bucket": "crypto-e3e3c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1082641421892:android:2602cd068d064fadf30e11",
+        "android_client_info": {
+          "package_name": "com.example.cypto_currency_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdzhslovQHfjBNnZo241_0MQQNeNE6HHs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
