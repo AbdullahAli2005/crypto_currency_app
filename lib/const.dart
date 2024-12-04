@@ -1,1 +1,4 @@
-const String CRYPTO_RANK_API_KEY = "d2f979f8de156535c755a45986d6e3ac4c46aff30d1dc89d18545b520ce2";
+const String CRYPTO_RANK_API_KEY = "YOUR API KEY HERE";
+
+// You can obtain a free API key from [CryptoRank](https://cryptorank.io/). Simply visit the website, sign up for an 
+// account, and you'll be able to generate your API key to start integrating cryptocurrency data into your application.
